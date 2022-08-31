@@ -54,7 +54,7 @@ function App(props: IPokemon) {
               </p>
               <p>Categoria: {pokemons.categoria}</p>
               <p>
-                {pokemons.kilos ? 'Peso: ' + pokemons.kilos + ' kg' : null}
+                {pokemons.kilos ? 'Peso: ' + pokemons.kilos + ' kg' : ' - '}
               </p>
             </div>
           )
