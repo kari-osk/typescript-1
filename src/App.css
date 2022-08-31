@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+
+.card {
+  width: 12rem;
+  height: 12rem;
+  border: 1px solid #ccc;
+  display: inline-block;
+  margin: 0.5rem;
+  top:0;
+}
+
